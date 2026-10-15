@@ -1,0 +1,6 @@
+streamlit==1.41.1
+pandas==2.2.3
+Pillow==11.0.0
+keras==3.13.2
+tensorflow-cpu==2.19.1; platform_system == "Linux"
+tensorflow==2.19.1; platform_system != "Linux"
